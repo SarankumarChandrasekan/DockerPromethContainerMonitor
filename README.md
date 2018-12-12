@@ -6,7 +6,7 @@ A monitoring solution for Docker hosts and containers with [Prometheus](https://
 
 ***If you're looking for the Docker Swarm version please go to [stefanprodan/swarmprom](https://github.com/stefanprodan/swarmprom)***
 
-## Install
+## Install - Saran
 
 Clone this repository on your Docker host, cd into dockprom directory and run compose up:
 
